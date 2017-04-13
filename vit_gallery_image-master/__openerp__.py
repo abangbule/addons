@@ -5,7 +5,7 @@
 		"base",
 		"board"
 	], 
-	"author": "ryanlinnok@gmail.com", 
+	"author": "gian.ule@gmail.com", 
 	"category": "galery", 
 	"description": """\
 
